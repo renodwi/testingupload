@@ -1,0 +1,1 @@
+new vehicle_upgrade[MAX_VEHICLES];

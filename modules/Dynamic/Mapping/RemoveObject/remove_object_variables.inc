@@ -1,0 +1,1 @@
+/* Variabel ada pada folder object/object_variables.inc */
